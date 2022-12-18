@@ -8,7 +8,9 @@ Entenda a importância do Git/GitHub nos Desafios de Projeto da DIO, além de ex
 
 ## Deploy:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2980ec5e-1a24-4535-ab69-ba7d2f65ba6f/deploy-status)](https://app.netlify.com/sites/projeto-pokedex-pokemon/deploys)
+[Link deploy](https://projeto-pokedex-pokeapi.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c8fdda85-c4b7-4309-a0eb-beab127821bc/deploy-status)](https://app.netlify.com/sites/projeto-pokedex-pokeapi/deploys)
 
 tag: #javascript #html #css
 
