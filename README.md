@@ -52,3 +52,58 @@ tag: #javascript #react #reactjs #dom #hooks # function #typescript
 
 Front End
 Intermediário
+## Projeto 4
+
+### Wiki de repositórios do GitHub (WikiGithub)
+
+Site desenvolvido como um buscador de repositórios do GitHub.
+
+✅ Através da API do GitHub busca repositórios
+✅ Faz uma lista na página com os repositórios
+✅ Opção de ver o repositório na página orignial do GitHub
+✅
+
+![](https://media.giphy.com/media/cxNUIJl3vkjT688DyR/giphy.gif)
+
+![](https://media.giphy.com/media/IsfIPjPyQnj93M6xvH/giphy.gif)
+
+tag: #javascript #react #reactjs #dom #hooks # function #typescript
+
+Front End
+Intermediário
+
+## Projeto 5
+
+### Criando uma página de login da Dio
+
+Re criando a página de login da Dio.
+
+✅ React
+✅ Styled - Components
+
+![](https://media.giphy.com/media/E5yk81zAlgB3dv6LSF/giphy.gif)
+
+tag: #javascript #react #reactjs #dom #hooks # function #typescript
+
+Front End
+Intermediário
+
+## Projeto 6
+
+### Tela de Login Com Validação Usando TypeScript
+
+✅ React
+✅ Styled - Components
+✅ Typescript - validação
+
+![](https://media.giphy.com/media/y25CsFvB1qogrjxGaw/giphy.gif)
+
+tag: #javascript #react #reactjs #dom #hooks # function #typescript
+
+Front End
+Intermediário
+
+# Certificado
+
+<img src="https://hermes.digitalinnovation.one/certificates/cover/6B628295.jpg" />
+
